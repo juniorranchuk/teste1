@@ -1,0 +1,64 @@
+body {
+    background-color: WhiteSmoke;
+    text-align: center;
+}
+#Gremio {
+    width: 100%;
+    height: 60%;
+}
+
+#gremio1 {
+    width: 40%;
+    height: 40%;
+}
+
+#pascoa {
+    width: 40%;
+    height: 40%;
+}
+
+#ProjetoGirassol {
+    width: 30%;
+    height: 30%;
+}
+#NovembroAzul {
+    width: 30%;
+    height: 30%;
+}
+title {
+    background-color: blue;
+    font-size: 50px;
+}
+h1 {
+     background-color:blue;
+    color:white;
+}
+h2, h3 {
+    background-color:black;
+    color:white;
+}
+
+p {
+    font-size: 30px;
+    text-align: justify;
+}
+
+b {
+    color:red;
+}
+
+i {
+    color:blue;
+}
+.lista {
+    font-size: 16px;
+    display: inline;
+    margin-left: 100px;
+    text-align: left;
+
+}
+li {
+    font-size: 20px;
+    margin-left: 2cm;
+    text-align: left;
+}
